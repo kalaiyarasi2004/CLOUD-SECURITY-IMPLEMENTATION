@@ -28,3 +28,9 @@ Gained hands-on experience with IAM policy syntax (JSON) and permission structur
 Learned how to enforce secure access control and limit user permissions.
 Understood how to apply data-at-rest encryption and follow best practices for secure S3 bucket configuration.
 Strengthened knowledge in cloud security fundamentals critical for real-world deployments.
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/31641e97-e48a-4ab4-8221-dc4e6f7f7713)
+
+![Image](https://github.com/user-attachments/assets/7137be95-8157-4619-ad71-c58bb4acfaca)
